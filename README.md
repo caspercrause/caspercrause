@@ -20,7 +20,12 @@ Connect Claude to ad platforms:
 | [googleadsquerytool](https://pypi.org/project/googleadsquerytool/) | [![PyPI Version](https://img.shields.io/pypi/v/googleadsquerytool.svg)](https://pypi.org/project/googleadsquerytool/) | ![Downloads](https://img.shields.io/pypi/dm/googleadsquerytool) |
 
 ### 💻 Stack
-Python · R · GCP · BigQuery · GTM (Web side + Server-side) · Docker · n8n
+Python · R · GCP · BigQuery · GTM (Web-side + Server-side) · Docker · n8n
+
+### 📊 Sample Output
+See what's possible when connecting Claude to ad platforms:
+
+[DV360 Performance Report](https://caspercrause.github.io/dv360-ads-mcp-server/templates/dv360_performance_report.html)
 
 ### 📍 Find me
 [LinkedIn](https://linkedin.com/in/casper-crause/) · South Africa 🇿🇦
